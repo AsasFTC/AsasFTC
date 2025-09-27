@@ -1,21 +1,25 @@
 ---
+
+# 🤖 Sobre a equipe e seus projetos
+
+---
 [![Equipe Asas FTC](https://img.shields.io/badge/-Olá,%20somos%20a%20equipe%20Asas%20FTC!-83C7E5?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AsasFTC)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF7828&center=true&vCenter=true&width=550&lines=FIRST+Tech+Challenge;Firjan+SESI+SENAI;We+Love+Bots;Technological+Development;Vem+com+a+Asas+vem+voar" alt="Typing SVG" />
 </div>
 
+<div align="center>
+  
+  ### Vem com a Asas vem voar!
+  
+</div>
+
 ---
 
-# 🤖 Sobre a equipe e seus projetos
+### Quem somos
 
-Vem com a Asas vem voar!
-
----
-
-## Quem somos
-
-- Somos a equipe Asas FTC
+- Somos a equipe Asas FTC, uma equipe de robótica. 
 
 ### Nossos valores
 
