@@ -10,46 +10,43 @@
 # 🤖 Sobre a equipe e seus projetos
 
 
-### Vem com a Asas vem voar!
+### Vem com a Asas vem voar! 
   
 ---
 
 ### Quem somos
 
-- Somos a equipe Asas FTC, uma equipe de robótica. 
+- Somos a equipe Asas FTC, uma equipe iniciante de robótica focada em progredir no First Tech Challenge, a primeira de Petrópolis, homenageando a inovação e tecnologia da qual a cidade é conhecida por portar!
+- Somos da unidade Firjan SENAI SESI Petrópolis, localizada na Rua Bingen 130, Bingen, Petrópolis, RJ, Brasil
 
 ### Nossos valores
 
+- Descoberta
+- Inovação
+- Impacto
 - Trabalho em equipe
 - Inclusão
-- Dedicação
 - Diversão
 
 ### Nossa história
-
-- Criada em 09/2025.
+- Criada em 09/2025
 
 ### Nossos objetivos
 
-- Divulgar a robótica para todos, além de desenvolver conheciumentos e habilidades relacionadas à programação, marketing e engenharia dentro da área de TI é um dos nossos principais objetivos.
+- Divulgar a robótica para todos, além de desenvolver conhecimentos e habilidades relacionadas à programação, marketing e engenharia dentro da área de TI é um dos nossos principais objetivos.
 
 ---
 
-## First Tech Challenge
+## First Tech Challenge (FTC)
 
 - First TEch Challenge é um desafio de robótica com competições anuais que colaboram para a cultura Steam.
 
 ---
 
-## Firjan Senai Sesi Petrópolis
-
-- Unidade Localizada na Rua Bingem 130, Bingen Petrópolis, Rj, Brasil. 
-
----
 
 <div align="center">
   <p style="color: #E9EAEC; font-size: 18px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
-    "O computador nasceu para resolver problemas que antes não existiam." <br>- Bill Gates -
+    “A robótica educacional é um ambiente de aprendizagem que favorece a construção do conhecimento por meio da ação.” <br>- José Armando Valente -
   </p>
 </div>
 
