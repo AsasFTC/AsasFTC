@@ -1,6 +1,6 @@
 ---
 
-[![Equipe Asas FTC](https://img.shields.io/badge/-Olá,%20somos%20a%20equipe%20Asas%20FTC!-FAD02C?style=for-the-badge&logo=github&logoColor=83C7E5)](https://github.com/AsasFTC)
+[![Equipe Asas FTC](https://img.shields.io/badge/-Olá,%20somos%20a%20equipe%20Asas%20FTC!-FAD02C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AsasFTC)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF7828&center=true&vCenter=true&width=550&lines=FIRST+Tech+Challenge;Firjan+SESI+SENAI;We+Love+Bots;Technological+Development" alt="Typing SVG" />
