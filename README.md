@@ -46,7 +46,7 @@
 ## Tecnologias
 
 ### Linguagens de Programação
-![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)
 
 ### Ferramentas & Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
